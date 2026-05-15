@@ -75,6 +75,8 @@ Client-server chat applications are foundational to real-time communication over
 
 ## PROGRAM :
 ```
+#Developed by : Keerthana K
+#Reg no : 212225230137
 client.py
 
 import socket
@@ -98,6 +100,8 @@ client.close()
 
 
 **server.py**
+#Developed by : Keerthana K
+#Reg no : 212225230137
 
 import socket
 from base64 import decode
